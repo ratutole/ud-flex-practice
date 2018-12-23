@@ -356,6 +356,7 @@ body {
   .recommend__image {
     box-sizing: content-box;
     width: 4rem;
+    height: 4rem;
     border-radius: 50%;
     border: .3rem solid white; }
     .recommend__image:not(:last-child) {
